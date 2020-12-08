@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - One Page Wonder v5.0.8 (https://startbootstrap.com/theme/one-page-wonder)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+
+body {
+  font-family: 'Crimson Text';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Crimson Text';
+  font-weight: 800 !important;
+}
+
+.btn-xl {
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+.bg-black {
+  background-color: #000 !important;
+}
+
+.rounded-pill {
+  border-radius: 5rem;
+}
+
+.navbar-custom {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  font-size: 15px;
+}
+
+.navbar-custom .navbar-brand {
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 0.2rem;
+  font-weight: 800;
+  font-family: 'Crimson Text';
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: 0.2rem;
+  font-family: crimson-text;
+}
+
+.bg-primary {
+  background-color: #ee0979 !important;
+}
+
+.btn-primary {
+  background-color: #ee0979;
+  border-color: #ee0979;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #bd0760 !important;
+  border-color: #bd0760 !important;
+}
+
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+}
+
+.btn-secondary {
+  background-color: #ff6a00;
+  border-color: #ff6a00;
+}
+
+.btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
+  background-color: #cc5500 !important;
+  border-color: #cc5500 !important;
+}
+
+.btn-secondary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+}
